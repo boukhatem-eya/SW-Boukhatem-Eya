@@ -1,0 +1,26 @@
+.content{
+    margin-left: 180px;
+    padding-left: 20px;
+    padding: 0px;
+  }
+.list{
+    display: flex;
+    height: 25px;
+    width: 25px;
+    margin-left: 370px;
+    border-radius: 60px;
+    padding: 35px 300px 20px 50px;
+    background-color: rgb(194, 199, 199);
+    list-style: none;
+    margin-top: 50px;
+    
+}
+.divicon{
+    padding: 0px 25px 20px 0px; 
+}
+.divname{
+    padding: 0px 150px 30px 0px; 
+}
+.divetat{
+    padding: 0px 0px 30px 0px; 
+}

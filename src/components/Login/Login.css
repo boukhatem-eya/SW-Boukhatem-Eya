@@ -4,6 +4,7 @@
     display: flex; 
     padding-top: 90px;
     padding-bottom: 90px;
+    background-color: rgb(110, 72, 116);
    
   }
   .sub-main {
@@ -13,7 +14,7 @@
     width: 35%;
     padding-top: 30px;
     border-radius: 60px; 
-    background-color: white;
+    background-color: rgb(110, 72, 116);
   }
   .imgs {
       padding-top: 20px;
@@ -26,6 +27,7 @@
     justify-content: center;
     height: 115px;
     width: 130px;
+    margin-bottom: 20px;
   }
   .swlogo {
     height: 100px;
@@ -65,15 +67,11 @@
       font-size: 25px;
       border: none;
       box-shadow: inset 0px 25px 25px 0px #7EEC89;
+      margin-top: 10px;
   }
   .login-button{
       padding-top: 25px;
   }
-
-  .link{
-      font-size: 25px;
-      font-weight: 400;
-  }
-   a{
-       color: blue;
-   }
+.divcheck{
+    margin-top: 20px;
+}
